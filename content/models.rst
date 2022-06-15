@@ -6,7 +6,7 @@ Curated community models
 
 Curated community model are standardized using CANDLE libraries.
 
-1. Standard candle arguement parser will be used.
+1. Standard candle arguement parser will be used. See step by step guide for using candle_lib here: https://ecp-candle.github.io/Candle/tutorials/writing_candle_code.html
 
 2. There must be a data_loader that is implemented by/in <model>.py or uses a candle default data_loader. The name shall conform to CANDLE standards.
 
